@@ -1,6 +1,11 @@
 # awesome_systems_neuroscience
 
-Some interesting/useful papers. Mainly reviews/opinions. When there are more than 2 authors I have put either the first or last author et al.
+An eclectic list of systems neuroscience resources and papers.
+
+Courses/Videos: 
+- [Neuroscience methods](https://www.youtube.com/playlist?list=PL_WaHEdJNRu6lGwMPmetg1fCRj-0YUAXS)
+  
+Papers:
 - [Intrinsic and embedding dimensionality by Jazayeri & Ostojic](https://arxiv.org/pdf/2107.04084.pdf)
 - [Review of sys neuro techniques by Deisseroth et al](https://www.nature.com/articles/s41583-022-00634-0#Sec18)
 - [Time Warping - Ganguli et al](https://www.cell.com/neuron/fulltext/S0896-6273(19)30894-3)
