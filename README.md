@@ -4,6 +4,9 @@ An eclectic list of systems neuroscience resources and papers.
 
 Courses/Videos: 
 - [Neuroscience methods](https://www.youtube.com/playlist?list=PL_WaHEdJNRu6lGwMPmetg1fCRj-0YUAXS)
+
+Books: 
+- [introduction-behavioral-neuroscience](https://openstax.org/details/books/introduction-behavioral-neuroscience)
   
 Papers:
 - [Intrinsic and embedding dimensionality by Jazayeri & Ostojic](https://arxiv.org/pdf/2107.04084.pdf)
